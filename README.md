@@ -1,9 +1,11 @@
-# yun0708jin
-# 윤서진의 홈페이지에 오신 것을 환영합니다
+# ![Mint Balloon](https://img.shields.io/badge/윤서진의_홈페이지에_오신_걸_환영합니다!-7FFFD4?style=for-the-badge&logo=balloon&logoColor=white)
 
 ## 자기소개
 성장을 꿈꾸는 **윤서진**입니다. 
 현재 깃허브를 통해 저만의 학습 기록과 프로젝트를 정리하고 있습니다.
+
+현) 자유전공학부
+전) 고등학교 학생회 총무부
 
 ---
 
